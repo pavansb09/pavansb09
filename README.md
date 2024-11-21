@@ -2,7 +2,7 @@
 
 🔍 Currently exploring the world of data analytics, diving into everything from cleaning data to building insightful dashboards.
 
-📚 On a journey to master tools like Python, SQL, and Excel, while experimenting with visualizations in tools like Matplotlib, Seaborn, and Tableau.
+📚 On a journey to master tools like Python, SQL, and Excel, while experimenting with visualizations in tools like, Numpy, Pandas, and Tableau.
 
 💡 I’m all about learning and sharing knowledge, so if you're into data, feel free to drop me a message — I love to collaborate and discuss new trends in data analysis!
 
