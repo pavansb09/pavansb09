@@ -17,6 +17,6 @@ Tech Stack
 🛠️ Exploring: Tableau, Power BI,
 
 Connect with Me
-🔗 LinkedIn:  | Instgram : pavan_dolly_1612 |
+🔗 LinkedIn: linkedin.com/in/pavan-s-b-aa39a92a1 | Instgram : pavan_dolly_1612 |
 
 📩 Let’s chat! You can reach me at [ pavanbarigal918@gmail.com /contact link].
