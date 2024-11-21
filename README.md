@@ -12,7 +12,7 @@
 Tech Stack
 🔧 Languages I'm learning: Python, SQL, Excel
 
-📊 Tools & Libraries: Pandas, Matplotlib, Jupyter Notebooks
+📊 Tools & Libraries: Pandas,Numpy, Jupyter Notebooks
 
 🛠️ Exploring: Tableau, Power BI,
 
